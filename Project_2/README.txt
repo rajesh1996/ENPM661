@@ -1,6 +1,5 @@
 README File
 
-Github link - https://github.com/govindak-umd/ENPM661/tree/master/Project%202
 _________________________________________________________________________________________
 
 Project 2 - ENPM 661 - Planning for Autonomous Robotics
