@@ -1,1 +1,3 @@
-Proejct_2- Planning for Autonmous Robots
+ Planning for Autonomous Robots - Project_2 :
+ 
+ Djikstra Algorithm for Point and Rigid Robots
